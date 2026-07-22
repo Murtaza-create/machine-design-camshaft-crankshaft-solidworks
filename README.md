@@ -1,64 +1,100 @@
-# machine-design-camshaft-crankshaft-solidworks
-Machine Design project involving the design, analysis, and SolidWorks modeling of a camshaft and crankshaft for an internal combustion engine.
-Machine Design of Camshaft & Crankshaft using SolidWorks
+Injection Mold Design and Assembly using SolidWorks
 Project Overview
 
-This project focuses on the engineering design and CAD modeling of a camshaft and crankshaft for a single-cylinder four-stroke internal combustion engine. The work includes analytical design calculations, component modeling in SolidWorks, and engineering evaluation based on machine design principles.
+This project presents the complete design and assembly of an injection mold using SolidWorks. It covers the mold development process, component design, cooling system integration, material selection, and assembly of a mold suitable for plastic part manufacturing.
+
+The project demonstrates key concepts in manufacturing engineering, mold design, and CAD modeling while following industry-standard mold development practices.
 
 Objectives
-Design a cam profile based on specified motion requirements.
-Design a crankshaft capable of withstanding operational loads.
-Perform engineering calculations using standard machine design formulas.
-Develop accurate 3D CAD models in SolidWorks.
-Evaluate the design for strength, functionality, and manufacturability.
-Problem Statement
+Design a complete injection mold assembly.
+Develop core and cavity geometry.
+Create an efficient cooling system.
+Select appropriate engineering materials.
+Assemble mold components in SolidWorks.
+Understand the injection molding workflow.
+Project Scope
 
-Design a camshaft and crankshaft for a single-cylinder four-stroke engine using the given design parameters, including bore, stroke, combustion pressure, engine speed, and loading conditions. The components must satisfy mechanical design requirements while maintaining structural integrity and operational efficiency.
+The project includes:
+
+Product Part Design
+Draft Analysis
+Mold Base Design
+Parting Line Creation
+Parting Surface Development
+Core and Cavity Design
+Cooling Channel Design
+Ejector System
+Mold Assembly
+Engineering Documentation
+
+These steps follow the standard mold design workflow described in the report.
 
 Methodology
-Studied the working principles of internal combustion engines.
-Performed machine design calculations.
-Selected suitable engineering materials.
-Designed the cam profile according to motion specifications.
-Designed the crankshaft using loading and stress analysis.
-Created detailed CAD models in SolidWorks.
-Verified dimensions and engineering feasibility.
+Designed the plastic product model.
+Performed draft analysis.
+Generated the mold base.
+Created the parting line and parting surface.
+Designed the core and cavity.
+Added cooling channels.
+Designed the ejector system.
+Assembled all mold components.
+Verified the assembly using SolidWorks.
+Major Mold Components
+
+The mold assembly consists of:
+
+Top Clamping Plate
+Bottom Clamping Plate
+Core
+Cavity Block
+Guide Pins
+Locating Ring
+Cooling Channels
+Socket Head Cap Screws
+Surface Plate
+
+Each component contributes to mold alignment, strength, cooling, and reliable operation.
+
+Materials Used
+Component	Material
+Mold Structure	Alloy Steel
+Cooling Channels	Copper
+Molded Part	ABS
+Coolant	Water
+
+The report explains the rationale for these selections, emphasizing strength, thermal conductivity, durability, and manufacturability.
+
 Software Used
 SolidWorks
-Microsoft Excel
-Engineering Design Handbook
-Engineering Concepts
-Machine Design
-Cam Design
-Crankshaft Design
-Stress Analysis
-Material Selection
-CAD Modeling
-Internal Combustion Engines
-Results
-Successfully designed the camshaft profile.
-Developed a complete crankshaft design.
-Created accurate 3D CAD models.
-Completed engineering calculations according to design requirements.
-Produced manufacturable engineering models.
+SolidWorks Mold Tools
+Microsoft Word
 Skills Demonstrated
-Mechanical Design
-SolidWorks CAD
-Engineering Calculations
-Design Analysis
-Technical Documentation
-Team Collaboration
-
+Injection Mold Design
+CAD Modeling
+Mold Assembly
+Plastic Product Design
+Manufacturing Engineering
+Material Selection
+Engineering Documentation
+Design for Manufacturing (DFM)
+Key Learning Outcomes
+Injection molding fundamentals
+Mold construction
+Cooling system design
+Mold component functionality
+Material selection
+CAD assembly techniques
+Manufacturing process planning
 Future Improvements
-Perform finite element analysis (FEA).
-Optimize the design for weight reduction.
-Conduct fatigue life analysis.
-Manufacture and experimentally validate the components.
+Mold Flow Analysis using SolidWorks Plastics
+Finite Element Analysis (FEA)
+Cycle Time Optimization
+Automated Cooling Channel Design
+Conformal Cooling Channels
+Design for Mass Production
 
 
-Industrial & Manufacturing Engineering
+
+B.E. Industrial & Manufacturing Engineering
 
 NED University of Engineering & Technology
-
-
-
